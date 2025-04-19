@@ -44,4 +44,3 @@ This wiki is inspired by another [unofficial PC Simulator wiki](https://pcsimula
 - [ ] Finish all pages (writing + images)
 - [ ] https://github.com/RTX3080Ti-Official/pcsim-wiki/issues/2 (Links aren't clickable on GitHub Pages and spelling errors)
 - [ ] https://github.com/RTX3080Ti-Official/pcsim-wiki/issues/3 (GitHub Pages broken since switching to Jekyll)
- 
