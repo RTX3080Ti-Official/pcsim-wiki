@@ -1,5 +1,5 @@
 # PC Simulator Wiki
-Please checkout https://rtx3080ti-official.github.io/pcsim-wiki/ to see the wiki.
+Please checkout https://rtx3080ti-official.github.io/pcsim-wiki/ to see the wiki..
 
 ## Credits
 This wiki is inspired by another [unofficial PC Simulator wiki](https://pcsimulator.miraheze.org/wiki/Main_Page).
