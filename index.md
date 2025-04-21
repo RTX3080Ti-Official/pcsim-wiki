@@ -6,8 +6,10 @@ title: Home
 # PC Simulator Wiki
 This wiki is unofficial.
 
+<!-- Removed since switched to Jekyll.
 > IMPORTANT!\
 > This repo might change from GitHub Flavored Markdown to HTML Markdown (using a CDN). The old Markdown version will still be available.
+-->
 
 ## Table of contents
 
