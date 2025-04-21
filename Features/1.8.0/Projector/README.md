@@ -5,7 +5,7 @@ title: Projector
 
 # Projector
 This page will talk about the Projector.\
-***Note**: This page might be movee when doing the rewriting.*
+***Note**: This page might be moved when doing the rewriting.*
 
 ## When was it added?
 The Projector was added in 1.8.0/1.8.1 (iOS and iPadOS).
