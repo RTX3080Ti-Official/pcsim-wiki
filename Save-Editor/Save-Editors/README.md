@@ -7,8 +7,8 @@ title: Save Editors
 This page will cover 2 save editors and their functions.
 
 ## 1st - The better one
-Discord link: https://discord.gg/ktHynCVz \
-GitHub link: https://github.com/BeboKhouja/PC-Simulator-Save-Editor (Java)\
+Discord link: [https://discord.gg/ktHynCVz](https://discord.gg/ktHynCVz) \
+GitHub link: [https://github.com/BeboKhouja/PC-Simulator-Save-Editor](https://github.com/BeboKhouja/PC-Simulator-Save-Editor) (Java)\
 <sup>**Other downloads are available on the Discord**</sup>
 
 Features:
@@ -31,7 +31,7 @@ Available versions:
 ## 2nd - The *worse* one
 Discord Server: *Unknown*\
 GitHub Link: *Unknown*\
-Website: https://pcsimdecrypt.rf.gd/?i=1
+Website: [https://pcsimdecrypt.rf.gd/?i=1](https://pcsimdecrypt.rf.gd/?i=1)
 
 Features:
 - Encrypt/Decrypt saves

@@ -6,11 +6,11 @@ title: 1.8.1
 # 1.8.1
 
 > IMPORTANT!\
-> This page is imcomplete, if you have more information, please consider contributing!
+> This page is incomplete, if you have more information, please consider contributing!
 
 This page will talk about a special release of PC Simulator, 1.8.1.
 
-## Where can I find it?
+## Access/Downloads
 It's only available on iOS and iPadOS.
 
 ## Changes
