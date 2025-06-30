@@ -1,1 +1,2 @@
-*.md -linguistic-detectable
+*	text=auto eol=lf
+*.md	linguist-detectable
