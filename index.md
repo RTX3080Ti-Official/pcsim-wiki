@@ -36,6 +36,7 @@ This wiki is unofficial.
     - [Save Editors](Save-Editor/Save-Editors/README/)
   - [Special](Special/README/):
     - [1.8.1](Special/1.8.1/README/)
+    - [Anticheat](Special/Anticheat/README/)
   - [Websites](#):
     - [www.printexpert.com](Websites/www.printexpert.com/README/)
 
